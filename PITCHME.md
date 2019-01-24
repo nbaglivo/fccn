@@ -2,9 +2,9 @@
 
 ### Fashion Cloud Customer Number
 
-* Every branch get a Fashion Cloud Customer Number (FCCN), it never changes
-* The FCCN its like an the branch's id, but easier to remember
-* It is a familiar concept for the retailer
+* Every branch get a Fashion Cloud Customer Number (FCCN), it never changes.
+* The FCCN is like the branch's id, but easier to remember.
+* It is a familiar concept for the retailer.
 
 
 ---
@@ -47,7 +47,7 @@
 
 Just an example of how simple can the UI be.
 
-[Shopping Cart](assets/shippingcart.png)
+[Shopping Cart](https://raw.githubusercontent.com/nbaglivo/fccn/master/assets/shoppingcart.png)
 
 ---
 
@@ -58,5 +58,15 @@ Just an example of how simple can the UI be.
 * The user won't have to deal with multiple addresses nor customer numbers.
     * Easier: Just one thing, the branch FCCN
     * FCCNs can also have aliases: 00001 => Nico's branch
-    
+
 * Retailers start talking about Fashion Cloud numbers, not about brands numbers, we capture them.
+
+---
+
+@title[fccn_advantages_3]
+
+### Advantages (3)
+
+If the brand hasn't provide the Address we can let the user request it.
+
+![Models](assets/notaddress.png)
