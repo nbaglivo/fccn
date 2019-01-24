@@ -69,4 +69,4 @@ Just an example of how simple can the UI be.
 
 If the brand hasn't provide the Address we can let the user request it.
 
-![Models](assets/notaddress.png)
+[Shopping Cart](https://raw.githubusercontent.com/nbaglivo/fccn/master/assets/notaddress.png)
